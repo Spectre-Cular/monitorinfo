@@ -1,0 +1,27 @@
+.vs
+
+# Godot 4+ specific ignores
+.godot/
+game/bin/summator/*
+godot-cpp
+.sconsign*.dblite
+
+# Binaries
+*.o
+*.os
+*.so
+*.dll
+*.obj
+*.bc
+*.pyc
+*.dblite
+*.pdb
+*.lib
+bin
+*.config
+*.creator
+*.creator.user
+*.files
+*.includes
+*.idb
+*.exp
